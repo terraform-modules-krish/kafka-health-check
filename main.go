@@ -7,7 +7,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/andreas-schroeder/kafka-health-check/check"
+	"github.com/terraform-modules-krish/kafka-health-check/check"
 )
 
 func main() {
